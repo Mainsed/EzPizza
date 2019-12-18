@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pizzas>
+  <Pizza>
+    <PizzaryName>Ambar</PizzaryName>
+    <PizzaName>Карбонара</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Бекон</Element>
+      <Element>Шинка</Element>
+      <Element>Помiдор черрi</Element>
+      <Element>Перепелине яйце</Element>
+      <Element>Соус вершковий</Element>
+      <Element>Пармезан</Element>
+    </PizzaElements>
+    <Cost>139</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Ambar</PizzaryName>
+    <PizzaName>Салямi</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Салямi</Element>
+      <Element>Болгарський перець</Element>
+      <Element>Маслини</Element>
+      <Element>Соус томатний</Element>
+    </PizzaElements>
+    <Cost>119</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Ретро</PizzaryName>
+    <PizzaName>Тонно</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Маринована цибуля</Element>
+      <Element>Моцарела</Element>
+      <Element>Зелень</Element>
+      <Element>Томати</Element>
+      <Element>Тунець</Element>
+    </PizzaElements>
+    <Cost>128</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Ambar</PizzaryName>
+    <PizzaName>Цезар</PizzaName>
+    <PizzaRadius>45</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Шинка</Element>
+      <Element>Соус "Цезар"</Element>
+      <Element>Помiдори черi</Element>
+      <Element>Бекон</Element>
+      <Element>Куряче фiле</Element>
+      <Element>Перепелине яйце</Element>
+      <Element>Пармезан</Element>
+    </PizzaElements>
+    <Cost>219</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Ретро</PizzaryName>
+    <PizzaName>Цезар</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Шинка</Element>
+      <Element>Соус "Цезар"</Element>
+      <Element>Помiдори черi</Element>
+      <Element>Бекон</Element>
+      <Element>Куряче фiле</Element>
+      <Element>Перепелине яйце</Element>
+      <Element>Пармезан</Element>
+    </PizzaElements>
+    <Cost>139</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Ambar</PizzaryName>
+    <PizzaName>Болгарська</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Соус червоний</Element>
+      <Element>Болгарський перець</Element>
+      <Element>Бринза</Element>
+      <Element>Шинка</Element>
+      <Element>Маслини</Element>
+      <Element>Синя цибуля</Element>
+    </PizzaElements>
+    <Cost>119</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Челентано</PizzaryName>
+    <PizzaName>Болгарська</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Соус червоний</Element>
+      <Element>Болгарський перець</Element>
+      <Element>Бринза</Element>
+      <Element>Шинка</Element>
+      <Element>Маслини</Element>
+      <Element>Синя цибуля</Element>
+    </PizzaElements>
+    <Cost>119</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Ambar</PizzaryName>
+    <PizzaName>Грецька</PizzaName>
+    <PizzaRadius>45</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Томати</Element>
+      <Element>Болгарський перець</Element>
+      <Element>Кукуруза</Element>
+      <Element>Сир фета</Element>
+      <Element>Маслини</Element>
+      <Element>Шампiньйони</Element>
+      <Element>Соус</Element>
+    </PizzaElements>
+    <Cost>189</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Prima Pizza</PizzaryName>
+    <PizzaName>Тонно</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Маринована цибуля</Element>
+      <Element>Моцарела</Element>
+      <Element>Зелень</Element>
+      <Element>Томати</Element>
+      <Element>Тунець</Element>
+    </PizzaElements>
+    <Cost>128</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Челентано</PizzaryName>
+    <PizzaName>Чотири Сири</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Моцарела</Element>
+      <Element>Пармезан</Element>
+      <Element>Дор блю</Element>
+      <Element>Томати</Element>
+      <Element>Чеддер</Element>
+    </PizzaElements>
+    <Cost>126</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Ретро</PizzaryName>
+    <PizzaName>Чотири Сири</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Моцарела</Element>
+      <Element>Пармезан</Element>
+      <Element>Дор блю</Element>
+      <Element>Томати</Element>
+      <Element>Чеддер</Element>
+    </PizzaElements>
+    <Cost>126</Cost>
+  </Pizza>
+  <Pizza>
+      <PizzaryName>Челентано</PizzaryName>
+      <PizzaName>Карбонара</PizzaName>
+      <PizzaRadius>33</PizzaRadius>
+      <PizzaElements>
+       <Element>Сир моцарела</Element>
+      <Element>Бекон</Element>
+      <Element>Шинка</Element>
+      <Element>Помiдор черрi</Element>
+      <Element>Перепелине яйце</Element>
+      <Element>Соус вершковий</Element>
+      <Element>Пармезан</Element>
+      </PizzaElements>
+      <Cost>139</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Lancelot</PizzaryName>
+    <PizzaName>Карбонара</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Бекон</Element>
+      <Element>Шинка</Element>
+      <Element>Помiдор черрi</Element>
+      <Element>Перепелине яйце</Element>
+      <Element>Соус вершковий</Element>
+      <Element>Пармезан</Element>
+    </PizzaElements>
+    <Cost>149</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Челентано</PizzaryName>
+    <PizzaName>Тонно</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Маринована цибуля</Element>
+      <Element>Моцарела</Element>
+      <Element>Зелень</Element>
+      <Element>Томати</Element>
+      <Element>Тунець</Element>
+    </PizzaElements>
+    <Cost>128</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Lancelot</PizzaryName>
+    <PizzaName>Гавайська</PizzaName>
+    <PizzaRadius>50</PizzaRadius>
+    <PizzaElements>
+      <Element>Ананаси</Element>
+      <Element>Моцарела</Element>
+      <Element>Фiле Куряче</Element>
+      <Element>Томати</Element>
+    </PizzaElements>
+    <Cost>219</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Ретро</PizzaryName>
+    <PizzaName>Гавайська</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Ананаси</Element>
+      <Element>Моцарела</Element>
+      <Element>Фiле Куряче</Element>
+      <Element>Томати</Element>
+    </PizzaElements>
+    <Cost>129</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Челентано</PizzaryName>
+    <PizzaName>Гавайська</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Ананаси</Element>
+      <Element>Моцарела</Element>
+      <Element>Фiле Куряче</Element>
+      <Element>Томати</Element>
+    </PizzaElements>
+    <Cost>129</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Lancelot</PizzaryName>
+    <PizzaName>Салямi</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Салямi</Element>
+      <Element>Болгарський перець</Element>
+      <Element>Маслини</Element>
+      <Element>Соус томатний</Element>
+    </PizzaElements>
+    <Cost>119</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Lancelot</PizzaryName>
+    <PizzaName>Болгарська</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Соус червоний</Element>
+      <Element>Болгарський перець</Element>
+      <Element>Бринза</Element>
+      <Element>Шинка</Element>
+      <Element>Маслини</Element>
+      <Element>Синя цибуля</Element>
+    </PizzaElements>
+    <Cost>119</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Lancelot</PizzaryName>
+    <PizzaName>Кальцоне</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Рiкота</Element>
+      <Element>Моцарела</Element>
+      <Element>Хрусткий бекон</Element>
+      <Element>Томати</Element>
+    </PizzaElements>
+    <Cost>139</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Prima Pizza</PizzaryName>
+    <PizzaName>Чотири Сири</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Моцарела</Element>
+      <Element>Пармезан</Element>
+      <Element>Дор блю</Element>
+      <Element>Томати</Element>
+      <Element>Чеддер</Element>
+    </PizzaElements>
+    <Cost>126</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Prima Pizza</PizzaryName>
+    <PizzaName>Цезар</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Шинка</Element>
+      <Element>Соус "Цезар"</Element>
+      <Element>Помiдори черi</Element>
+      <Element>Бекон</Element>
+      <Element>Куряче фiле</Element>
+      <Element>Перепелине яйце</Element>
+      <Element>Пармезан</Element>
+    </PizzaElements>
+    <Cost>125</Cost>
+  </Pizza>
+  <Pizza>
+      <PizzaryName>Ретро</PizzaryName>
+      <PizzaName>Карбонара</PizzaName>
+      <PizzaRadius>33</PizzaRadius>
+      <PizzaElements>
+        <Element>Сир моцарела</Element>
+        <Element>Бекон</Element>
+        <Element>Шинка</Element>
+        <Element>Помiдор черрi</Element>
+        <Element>Перепелине яйце</Element>
+        <Element>Соус вершковий</Element>
+        <Element>Пармезан</Element>
+      </PizzaElements>
+      <Cost>120</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Ретро</PizzaryName>
+    <PizzaName>Грецька</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Томати</Element>
+      <Element>Болгарський перець</Element>
+      <Element>Кукуруза</Element>
+      <Element>Сир фета</Element>
+      <Element>Маслини</Element>
+      <Element>Шампiньйони</Element>
+      <Element>Соус</Element>
+    </PizzaElements>
+    <Cost>119</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Prima Pizza</PizzaryName>
+    <PizzaName>Кальцоне</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Рiкота</Element>
+      <Element>Моцарела</Element>
+      <Element>Хрусткий бекон</Element>
+      <Element>Томати</Element>
+    </PizzaElements>
+    <Cost>125</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Prima Pizza</PizzaryName>
+    <PizzaName>Гавайська</PizzaName>
+    <PizzaRadius>30</PizzaRadius>
+    <PizzaElements>
+      <Element>Ананаси</Element>
+      <Element>Моцарела</Element>
+      <Element>Фiле Куряче</Element>
+      <Element>Томати</Element>
+    </PizzaElements>
+    <Cost>125</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Prima Pizza</PizzaryName>
+    <PizzaName>Салямi</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Салямi</Element>
+      <Element>Болгарський перець</Element>
+      <Element>Маслини</Element>
+      <Element>Соус томатний</Element>
+    </PizzaElements>
+    <Cost>119</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Prima Pizza</PizzaryName>
+    <PizzaName>Карбонара</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Бекон</Element>
+      <Element>Шинка</Element>
+      <Element>Помiдор черрi</Element>
+      <Element>Перепелине яйце</Element>
+      <Element>Соус вершковий</Element>
+      <Element>Пармезан</Element>
+    </PizzaElements>
+    <Cost>129</Cost>
+  </Pizza>
+  <Pizza>
+    <PizzaryName>Prima Pizza</PizzaryName>
+    <PizzaName>Болгарська</PizzaName>
+    <PizzaRadius>33</PizzaRadius>
+    <PizzaElements>
+      <Element>Сир моцарела</Element>
+      <Element>Соус червоний</Element>
+      <Element>Болгарський перець</Element>
+      <Element>Бринза</Element>
+      <Element>Шинка</Element>
+      <Element>Маслини</Element>
+      <Element>Синя цибуля</Element>
+    </PizzaElements>
+    <Cost>119</Cost>
+  </Pizza>
+</Pizzas>
